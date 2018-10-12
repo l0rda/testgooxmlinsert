@@ -11,6 +11,7 @@ func test1() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	defer wb.Close()
 	sheet, err := wb.GetSheet("test")
 	if err != nil {
 		log.Fatal(err)
