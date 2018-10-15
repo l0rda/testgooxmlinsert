@@ -1,4 +1,4 @@
-# baliance.com/gooxml v1.0.0
+# baliance.com/gooxml v0.9.3-0.20181012202337-fca3760b33fb
 baliance.com/gooxml/spreadsheet
 baliance.com/gooxml
 baliance.com/gooxml/chart
